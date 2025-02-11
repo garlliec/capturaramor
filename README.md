@@ -16,10 +16,11 @@ Essa é a minha primeira vez fazendo um jogo com começo meio e fim e a expectat
  escolher um enima de um dos 4 elementos propostos afim de subir seu nível com um dos paqueras
  antes mesmo do começo do próximo episódio. 
 
- Desta forma, é necessário uma forma de implementar 
- 1 -  Falas
- 2 - Barras para contabilidade de afeto
- 3 - Sistema de save
- 4 - Diversas reações nos personagens principais
- 5 - Sistema de nome de player e pronome
+ Desta forma, é necessário que consigamos criar as seguintes funções: 
+ 
+ [] -  Falas
+ [] - Barras para contabilidade de afeto
+ [] - Sistema de save
+ [] - Diversas reações nos personagens principais
+ [] - Sistema de nome de player e pronome
  
