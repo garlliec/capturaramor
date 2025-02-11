@@ -18,9 +18,9 @@ Essa é a minha primeira vez fazendo um jogo com começo meio e fim e a expectat
 
  Desta forma, é necessário que consigamos criar as seguintes funções: 
  
- [] -  Falas
- [] - Barras para contabilidade de afeto
- [] - Sistema de save
- [] - Diversas reações nos personagens principais
- [] - Sistema de nome de player e pronome
+ [ ] -  Falas
+ [ ] - Barras para contabilidade de afeto
+ [ ] - Sistema de save
+ [ ] - Diversas reações nos personagens principais
+ [ ] - Sistema de nome de player e pronome
  
